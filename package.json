@@ -15,7 +15,7 @@
     "babel": "~4.7.8",
     "babel-core": "^5.1.11",
     "babel-loader": "^5.0.0",
-    "body-parser": "~1.10.2",
+    "body-parser": "~1.19.0",
     "bootstrap": "^3.3.4",
     "browser-request": "~0.3.3",
     "bundle-loader": "^0.5.4",
